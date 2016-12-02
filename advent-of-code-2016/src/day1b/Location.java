@@ -1,4 +1,4 @@
-package day1;
+package day1b;
 
 public class Location {
 	

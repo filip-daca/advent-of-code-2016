@@ -1,4 +1,4 @@
-package day1;
+package day1a;
 
 public enum Turn {
 	L, R;
