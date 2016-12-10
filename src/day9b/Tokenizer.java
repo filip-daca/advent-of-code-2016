@@ -2,7 +2,6 @@ package day9b;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.PriorityQueue;
 import java.util.Stack;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -24,10 +23,6 @@ public class Tokenizer {
 			}			
 		}
 
-	}
-	
-	private void print() {
-		tokens.forEach(t -> System.out.print(t.toString()));
 	}
 	
 	private void decompress() {
